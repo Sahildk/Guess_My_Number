@@ -44,8 +44,3 @@ A fun and interactive browser-based number guessing game built with **HTML, CSS,
 | **JavaScript** | Core game logic (55.6%) |
 | **CSS**        | Styling, layout, and theme (28.0%) |
 | **HTML**       | Structure & markup (16.4%) |
-
----
-
-## 📁 Project Structure
-

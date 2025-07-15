@@ -14,11 +14,6 @@ A fun and interactive browser-based number guessing game built with **HTML, CSS,
 
 <img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/43360b1d-c93c-4b51-803e-ff265808dc16" />
 
-
-> *(Add `preview.png` to your repo root folder. This is the screenshot you uploaded.)*
-
----
-
 ## 💡 How to Play
 
 - The game selects a random number between **1 and 20**
